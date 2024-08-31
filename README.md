@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I am Pengxiang(Alex) Li 👋
 
-<!--
-**pengxiangli666/pengxiangli666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a graduate of the South Carolina School of Computer Engineering, Class of 2024 with honors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm currently working on
+- Full-stack engineering intern at Go Big
+
+## 🎮 My favorite hobbies
+- Outdoor sports
+- Car modification
+- Shooting at shooting ranges 
+
+## 📫 How to reach me:
+-[LinkedIn](https://www.linkedin.com/in/pengxiang-alex-li-54309125a)
+
